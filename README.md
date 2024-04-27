@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&random=false&width=600&lines=Hello+everybody+!!!;My+name+is+Vin%C3%ADcius;I'm+a+self-taught;learning+Programming+!!!;My+favorite+language+is+Python;Cuz+it's+more+powerful+and;++versatile+than+others+!!!)](https://git.io/typing-svg" alt="Typing SVG">
@@ -15,7 +16,7 @@
     <!-- Card 2: Most Used Languages -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniped&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniped&layout=donut&langs_count=8&card_width=300" alt="Top Langs" />
       </a>
     </td>
   </tr>
@@ -31,7 +32,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-## ❤️ Keep everything updated and free. Sponsor our projects ❤️!!!!
+## Keep everything updated and free. Sponsor our projects !!!!
 
 <br/>
 <div style="display: inline-block;">
