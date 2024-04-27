@@ -1,26 +1,26 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&random=false&width=600&lines=Hello+everybody+!!!;My+name+is+Vin%C3%ADcius;I'm+a+self-taught;learning+Programming+!!!;My+favorite+language+is+Python;Cuz+it's+more+powerful+and;++versatile+than+others+!!!)](https://git.io/typing-svg" alt="Typing SVG">
   </a>
 </p><br/>
 
-<p align="center">
-  <!-- Wrapper div for cards with flexbox setup -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<table>
+  <tr>
     <!-- Card 1: GitHub Stats -->
-    <div>
+    <td>
       <a href="https://github.com/viniped">
         <img src="https://github-readme-stats.vercel.app/api?username=viniped&show_icons=true&theme=radical" alt="Vini's GitHub Stats" />
       </a>
-    </div>
+    </td>
     <!-- Card 2: Most Used Languages -->
-    <div>
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniped&layout=compact" alt="Top Langs" />
       </a>
-    </div>
-  </div>
-</p>
+    </td>
+  </tr>
+</table>
 
 ## Technologies I use in my daily life
 
